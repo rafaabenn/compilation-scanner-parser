@@ -1,0 +1,13 @@
+-- erreurs lexicales : l'instruction est sautee jusqu'au ;
+begin
+  read(a, b);
+  c := a + 12;
+  d := c $ 3;
+  x_1 := 5.2 - b
+  y : 4;
+  write(c, d @ x_1);
+  r := 3e+;
+  s := 1.5E;
+  t := 2.5e3 + c;
+  write(t, x_1);
+end

@@ -1,0 +1,14 @@
+-- erreurs syntaxiques
+begin
+  read(a, b)
+  c := a + 12;
+  d := (c - 3;
+  e := b @ 2;
+  read(a, 5);
+  write(^);
+  x := + 3;
+  f := 1.5E3 2e-4;
+  g := (2.5e+3 - x;
+  h := 3e+;
+  write(c, d);
+end

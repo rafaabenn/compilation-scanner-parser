@@ -1,0 +1,7 @@
+-- programme MICRO correct
+begin
+  read(a, b);
+  c := a + (b - 12);
+  x_1 := 5.2 - c
+  write(c, x_1 + 3);
+end

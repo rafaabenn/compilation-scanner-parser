@@ -1,0 +1,10 @@
+-- programme MICRO correct : tous les cas valides
+begin
+  read(a, b, c_1);
+  x := a + (b - 12);
+  y := 5.2 - x;
+  -- reels avec exposant
+  z := 1.5E3 + 2e-4 - 12E3 + 3.0e+2;
+  w := ((a + b) - (c_1 + 7));
+  write(x, y + 3, z, w);
+end

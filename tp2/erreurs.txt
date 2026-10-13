@@ -1,0 +1,8 @@
+-- programme MICRO avec des erreurs
+begin
+  read(a, b);
+  c := a + 12
+  d := (c - 3;
+  e := b $ 2;
+  write(c, d);
+end
